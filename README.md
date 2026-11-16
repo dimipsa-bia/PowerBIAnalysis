@@ -13,3 +13,5 @@ As can be seen, the first bottleneck is importing the data, which becomes the fi
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/347a53fc-03c3-48cc-9e32-2a6812bec25d" />
 
 
+2. Cleaning Data using PowerQuery
+   <img width="1726" height="887" alt="image" src="https://github.com/user-attachments/assets/2c085d3d-28a9-49dc-b2b5-27840d2e1bb2" />
