@@ -14,4 +14,12 @@ As can be seen, the first bottleneck is importing the data, which becomes the fi
 
 
 2. Cleaning Data using PowerQuery
-   <img width="1726" height="887" alt="image" src="https://github.com/user-attachments/assets/2c085d3d-28a9-49dc-b2b5-27840d2e1bb2" />
+The first step was to check data types; all were correct.
+<img width="1726" height="887" alt="image" src="https://github.com/user-attachments/assets/2c085d3d-28a9-49dc-b2b5-27840d2e1bb2" />
+
+I then used the column manager to get an ovwerview of the data quality. the order ID has 1000 distinct values, and 1000 distinct emails, but some names are repeated.
+I used the Value Distribution table to find which Name records were repeated to check hese records by filtering the Name column.
+By filtering for the two names with the highest count, I can check these records.
+<img width="1270" height="715" alt="image" src="https://github.com/user-attachments/assets/1e04b75a-84fb-4e9f-a9a7-d3d7bc1674c1" />
+Each record seems to be unique and correct, just multiple people sharing the name. Probably due to this being a synthetic dataset.
+
