@@ -7,7 +7,7 @@ I downloaded the dataset from Kaggle in csv format.
 In order to manage the project, I created a kanban board using the projects feature in GitHub. This allowed me to outline tasks and items and track what has been completed, as well as bottlenecks in the project.
 As can be seen, the first bottleneck is importing the data, which becomes the first task that needs to be completed. <img width="1914" height="763" alt="image" src="https://github.com/user-attachments/assets/a56453b5-b968-4b79-b47d-3fc2a31e173b" />
 
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 1. Importing Data into PowerBI
   I selected to satart a new PowerBI project by uploading an Excel worksheet. As the downloaded file was a csv file, I needed to make sure I could see all files in the upload window.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/347a53fc-03c3-48cc-9e32-2a6812bec25d" />
@@ -23,3 +23,25 @@ By filtering for the two names with the highest count, I can check these records
 <img width="1270" height="715" alt="image" src="https://github.com/user-attachments/assets/1e04b75a-84fb-4e9f-a9a7-d3d7bc1674c1" />
 Each record seems to be unique and correct, just multiple people sharing the name. Probably due to this being a synthetic dataset.
 
+Review of Project progress:
+<img width="1794" height="358" alt="image" src="https://github.com/user-attachments/assets/939ee0eb-56ff-4e41-9b09-0f47738a3514" />
+
+3. Formulate Analysis Question
+Clicking 'Close & Apply', I now have the data with the table columns being viewable in the data panel.
+I want to formulate a larger question which can be researched through two smaller tasks.
+
+**Important Note**: To aid with the analysis and design, I am applying this dataset as if it is from the real conservation charity 'Northumbiran Hedgehog Rescue Fund'. More information on this non-profit can be found at this link:  https://hedgehogs-northumbria.org.uk/
+I therefore created a theme, using brand basics, such as the logo and the minimal colour scheme: mainly white, black and some natural greens.
+<img width="1361" height="902" alt="image" src="https://github.com/user-attachments/assets/76067125-6e01-4146-9c81-1533ec7864d7" />
+
+A 
+
+4. Create DAX Measures Useful for Questions
+
+
+
+5. Create Reports Useful for Tasks
+
+
+
+6. Create Dashboard For Question
