@@ -161,3 +161,7 @@ I added a Total Donation by Age Group column chart to visualise the distribution
 In order to quickly see the key performance of a given referral channel in comparison to another, I created a left/right divide by adding a central line. In each half I included some key data from previous reports, this time separated individually by referral channel by using two new tables (one for each slicer) to hold data.
 I included the Total Donation and Average DOnation by referral channel and country scatter chart from page two as well as an Avergae Donation by Age Group column chart.
 At a quick glance, the top of the dashboard provides key indicators through cards and KPI cards. With total count of donations from the referral channel, the average donation for the channel, and the 2026 Forecast vs 2024 Outcome KPI card.
+
+**Final Project Kanban**
+<img width="1086" height="634" alt="image" src="https://github.com/user-attachments/assets/1ec5a8f8-c512-4964-ad5c-229f8f824649" />
+
